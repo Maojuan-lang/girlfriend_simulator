@@ -1,0 +1,2 @@
+# girlfriend_simulator
+一个体积大小只有1kb的女朋友模拟器离线版等您来体验！
